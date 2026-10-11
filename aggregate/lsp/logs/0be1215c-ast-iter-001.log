@@ -1,0 +1,7 @@
+[2026-10-11T08:09:48Z] === AST ITERATION 1 START | repo=python-poetry/test-fixture-vcs-repository sha=0be1215c ===
+[2026-10-11T08:09:48Z] [iter=1] PHASE START: ast repo=python-poetry/test-fixture-vcs-repository sha=0be1215c
+[2026-10-11T08:09:48Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T08:09:48Z] [iter=1] AST chunks built count=1 triples=8
+[2026-10-11T08:09:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0be1215c90fffe37c5629cf2764615e9d9530e67/.complete
+[2026-10-11T08:09:48Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T08:09:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
