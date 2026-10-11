@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-poetry",
+  "repo": "test-fixture-vcs-repository",
+  "versions": [
+    {
+      "commit": "0be1215c90fffe37c5629cf2764615e9d9530e67",
+      "parsed_at": "2026-10-11T08:09:03.865179+00:00",
+      "filetree": "filetree/0be1215c90fffe37c5629cf2764615e9d9530e67.nq.gz",
+      "blobs": [
+        "blob/40cf6aabdb3cdebbb08e7e18c6a0c5e268f9b742.nq.gz",
+        "blob/fd44b6679a9a197cf67ecb77080bacc7b59a848d.nq.gz",
+        "blob/f9b02507562a69fd78822b6331b00ab176431f1b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
